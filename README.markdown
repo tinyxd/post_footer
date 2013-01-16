@@ -1,7 +1,8 @@
+Post footer plugins
+---
 A post footer plugins for octopress.   
 Author: Tiny   
-Email: admin#tinyxd.me
----
+Email: admin#tinyxd.me   
 Install
 ---
 1.Put post_footer_filter.rb to plugins.   
